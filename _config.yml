@@ -1,5 +1,6 @@
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
+encoding: "utf-8"
 permalink: /:categories/:year/:month/:day/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -12,7 +13,7 @@ title : Mg's Blog
 tagline: null
 author :
   name : Mg Guan
-  email : mindgeek.guan@gmail.com
+  email : mindgeek.guan at gmail
   github : MindGeek
   twitter : null
   feedburner : null
