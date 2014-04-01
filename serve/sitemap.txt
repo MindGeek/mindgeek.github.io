@@ -1,0 +1,14 @@
+
+http://MindGeek.github.io/categories.html
+http://MindGeek.github.io/tags.html
+http://MindGeek.github.io/archive.html
+http://MindGeek.github.io/pages/about.html
+http://MindGeek.github.io/index.html
+http://MindGeek.github.io/pages.html
+http://MindGeek.github.io/sitemap.txt
+http://MindGeek.github.io/rss.xml
+http://MindGeek.github.io/atom.xml
+
+http://MindGeek.github.io/2014/04/01/fools-days-gift
+http://MindGeek.github.io/2014/03/31/hello-world
+http://MindGeek.github.io/lessons/2011/12/29/jekyll-introduction
