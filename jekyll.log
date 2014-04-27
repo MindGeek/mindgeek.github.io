@@ -1,0 +1,13 @@
+nohup: ignoring input
+/var/lib/gems/1.8/gems/jekyll-0.12.1/bin/../lib/jekyll/post.rb:216:in `initialize': Permission denied - /home/mg/git_repos/mindgeek.github.com/_site/lessons/2011/12/29/jekyll-introduction/index.html (Errno::EACCES)
+	from /var/lib/gems/1.8/gems/jekyll-0.12.1/bin/../lib/jekyll/post.rb:216:in `open'
+	from /var/lib/gems/1.8/gems/jekyll-0.12.1/bin/../lib/jekyll/post.rb:216:in `write'
+	from /var/lib/gems/1.8/gems/jekyll-0.12.1/bin/../lib/jekyll/site.rb:250:in `write'
+	from /var/lib/gems/1.8/gems/jekyll-0.12.1/bin/../lib/jekyll/site.rb:249:in `each'
+	from /var/lib/gems/1.8/gems/jekyll-0.12.1/bin/../lib/jekyll/site.rb:249:in `write'
+	from /var/lib/gems/1.8/gems/jekyll-0.12.1/bin/../lib/jekyll/site.rb:43:in `process'
+	from /var/lib/gems/1.8/gems/jekyll-0.12.1/bin/jekyll:264
+	from /usr/local/bin/jekyll:19:in `load'
+	from /usr/local/bin/jekyll:19
+Configuration from /home/mg/git_repos/mindgeek.github.com/_config.yml
+Building site: /home/mg/git_repos/mindgeek.github.com -> /home/mg/git_repos/mindgeek.github.com/_site
