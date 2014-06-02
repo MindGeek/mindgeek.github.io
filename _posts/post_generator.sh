@@ -14,7 +14,7 @@ read -d '' header <<__msg
 layout: post
 title: "$title"
 description: ""
-category:
+category:"English"
 tags: [mind,geek]
 ---
 {% include JB/setup %}
@@ -26,7 +26,5 @@ post_name="${dater}-${post_title}.md"
 echo "$header" > $post_name
 
 vim $post_name
-
-
 
 

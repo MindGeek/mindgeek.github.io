@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Fools day's gift"
+title: "愚人节的礼物 Fools day's gift"
+category: "English"
+tags: [mind,geek]
 ---
 {% include JB/setup %}
 

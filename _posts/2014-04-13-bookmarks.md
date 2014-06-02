@@ -2,7 +2,7 @@
 layout: post
 title: "感兴趣的站点"
 description: ""
-category: 
+category: "Chinese"
 tags: [geek]
 ---
 {% include JB/setup %}
