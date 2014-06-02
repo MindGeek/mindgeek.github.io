@@ -14,6 +14,6 @@ title: "Fools day's gift"
 
 Today is Fool's Day. I deside to continue my bloger life in Github.
 
-I have been writing some articals in BlogBus or DianDian. From today's perspective, most of them are tender and immature. But there are still some of them which truly reflect the circumstance and thought of myself. They tell me I have been there.
+I have been writing some articals in BlogBus or DianDian. From today's perspective, most of them are tender and immature. But there are still some of them which truly reflect the circumstance and thought of myself. They are greate reminder of how I perceived the world back then. They tell me I have been there.
 
-Try to write something constantly, to prove the existence of my life.
+So Mg, Please try to write something constantly, to prove the existence of your life.
