@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "recsys-talent"
+title: "百度智能推荐团队招聘"
 description: ""
-category:"English"
+category:"Chinese"
 tags: [mind,geek]
 ---
 {% include JB/setup %}
