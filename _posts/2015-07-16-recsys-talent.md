@@ -1,9 +1,9 @@
 ---
-layout: post
-title: "百度智能推荐团队招聘"
-description: ""
-category:"Chinese"
-tags: [mind,geek]
+layout： post
+title： "百度智能推荐团队招聘"
+description： ""
+category："Chinese"
+tags： [mind,geek]
 ---
 {% include JB/setup %}
 
@@ -45,7 +45,7 @@ ___
 * 应用文本挖掘、机器学习、语义理解等技术，开展意图识别，CTR预估等工作
 * 负责海量数据下的特征选择和抽取，模型训练和调优
 
-** 技术要求: **
+** 技术要求： **
 
 * 有至少一年的数据挖掘和机器学习相关工作或研究经验
 * 精通Python，能熟练运用Python的机器学习和数据挖掘相关Packge
