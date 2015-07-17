@@ -7,9 +7,6 @@ tags: [mind,geek]
 ---
 {% include JB/setup %}
 
-# 百度智能推荐团队招聘
-
-
 ## 我们是谁
 ___
 
