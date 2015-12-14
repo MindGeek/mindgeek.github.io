@@ -49,7 +49,7 @@ tags: [life]
 
 ## 价格&联系方式
 * 房子实收508w
-* 链家地址(抱歉租客不是很会收拾): http://m.lianjia.com/sz/ershoufang/SZHX91125954.html?agId=&from=singlemessage&isappinstalled=0
+* [链家地址](http://m.lianjia.com/sz/ershoufang/SZHX91125954.html?agId=&from=singlemessage&isappinstalled=0)(抱歉租客不是很会收拾)
 * 具体看房&聊价格等加微信详谈
 * 业主微信: 261137218
 
