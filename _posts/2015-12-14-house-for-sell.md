@@ -37,7 +37,7 @@ tags: [life]
 
 ## 照片
 
-![lobby]({{BASH_PATH}}/assets/images/lobby.jpg)
+![lobby](/assets/images/lobby.jpg)
 
 ![room1]({{BASH_PATH}}/assets/images/room1.jpg)
 
