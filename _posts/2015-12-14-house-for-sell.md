@@ -29,25 +29,25 @@ tags: [life]
 ---
 阳台和卧室窗户正对着的是整个红山片区最大的绿色走廊。公园另一边是即将建设的深圳美术馆、图书馆。不但视野好，以后的周边人文环境也是一流的。
 
-![env](/assets/images/evn.png)
+![env]({{BASH_PATH}}/assets/images/evn.png)
 
 房子西北500米，靠近中央原著是IMAX影院，天虹，在龙华站附近的海岸城也要动工了，也是一个好消息。
 
-![env_plan](/assets/images/evn_plan.png)
+![env_plan]({{BASH_PATH}}/assets/images/evn_plan.png)
 
 ## 照片
 
 ![lobby]({{BASH_PATH}}/assets/images/lobby.jpg)
 
-<img src="http://pan.baidu.com/s/1mhjzZDI" />
+![room1]({{BASH_PATH}}/assets/images/room1.jpg)
 
-<img src="http://pan.baidu.com/s/1IadA2" />
+![room2]({{BASH_PATH}}/assets/images/room2.jpg)
 
-<img src="http://pan.baidu.com/s/1nu3GJqD" />
+![room3]({{BASH_PATH}}/assets/images/room3.jpg)
 
-<img src="http://pan.baidu.com/s/1nu0YTmh" />
+![kitchen]({{BASH_PATH}}/assets/images/kitchen.png)
 
-【价格&联系方式】
+## 价格&联系方式
 * 房子实收508w
 * 具体看房&聊价格等加微信详谈
 * 业主微信: 261137218
