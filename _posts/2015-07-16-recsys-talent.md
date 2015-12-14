@@ -3,7 +3,7 @@ layout: post
 title: "百度智能推荐团队招聘"
 description: ""
 category: "Chinese"
-tags: [mind,geek]
+tags: [work]
 ---
 {% include JB/setup %}
 
