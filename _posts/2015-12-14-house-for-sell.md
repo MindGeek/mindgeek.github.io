@@ -2,7 +2,7 @@
 layout: post
 title: "深圳的房子出售"
 description: ""
-category:"Chinese"
+category: "Chinese"
 tags: [life]
 ---
 {% include JB/setup %}

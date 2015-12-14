@@ -14,7 +14,7 @@ read -d '' header <<__msg
 layout: post
 title: "$title"
 description: ""
-category:"English"
+category: "English"
 tags: [mind,geek]
 ---
 {% include JB/setup %}
