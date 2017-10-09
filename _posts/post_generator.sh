@@ -25,6 +25,4 @@ post_title=$(echo $title | tr ' ' '-')
 post_name="${dater}-${post_title}.md"
 echo "$header" > $post_name
 
-vim $post_name
-
 
