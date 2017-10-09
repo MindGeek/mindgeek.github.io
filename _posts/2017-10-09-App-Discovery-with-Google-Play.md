@@ -48,7 +48,9 @@ We trained a neural network to learn how language was used to describe apps.
 
 然后再想提高，就引入了人工标注的方式，让人来提升样本{app, topic}的质量。
 
-<a href="url"><img src="/assets/images/App-Discovery-with-Google-Play.1.jpg " align="left" height="48" width="48" ></a>
+<a href="url"><img src="/assets/images/App-Discovery-with-Google-Play.1.jpg " align="left" height="480" width="480" ></a>
+</p>
+
 
 ## Part2
 
