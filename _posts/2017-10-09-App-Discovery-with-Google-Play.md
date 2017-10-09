@@ -50,7 +50,6 @@ We trained a neural network to learn how language was used to describe apps.
 
 ![pic1](/assets/images/App-Discovery-with-Google-Play.1.jpg)
 
-
 ## Part2
 
 光理解 topic 可能还不够，为了更好服务用户，如果能够根据每个用户的口味偏好给他推荐 apps 就更好了。
