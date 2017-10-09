@@ -47,8 +47,8 @@ We trained a neural network to learn how language was used to describe apps.
 但是这样做又遇到一个问题，就是分类器对于冷门游戏分类不好，他们built a separate classifier for each topic and tuned them in isolation，没太看懂怎么做的。
 
 然后再想提高，就引入了人工标注的方式，让人来提升样本{app, topic}的质量。
-
-<img src="/assets/images/App-Discovery-with-Google-Play.1.jpg " align="left">
+<!-- 这里插入了 html不太美观 但是为了设置图片属性 也只能如此了.. -->
+<img src="/assets/images/App-Discovery-with-Google-Play.1.jpg " align="left" style="float:none">
 <p></p>
 
 
