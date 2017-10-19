@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "the-human-made-bias-in-mechine-learning"
+title: "机器学习中的人为偏差"
 description: ""
 category: "Chinese"
 tags: [geek,mechine learning]
